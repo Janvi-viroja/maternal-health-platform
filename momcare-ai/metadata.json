@@ -1,0 +1,6 @@
+{
+  "name": "MomCare AI",
+  "description": "Smart Maternity Health Platform for pregnancy tracking, baby development, AI maternal guidance, nutrition planning, doctor consultations, and postpartum recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
